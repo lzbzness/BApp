@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_94ee2c0ae7161522754ca3b6140e132d522d4388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_cf8a42c2f790913a702be5f8381a5477b094cbce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_5b8d04fc1050c1152a5cc806decf0099b67acacd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_72eabdf03313ca6088d2feeb4252a56cc48afcc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ad260f06d3f53a3c44f02fc7c05b3945e79f0947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_699463af50b20c40ea2720239eb96ba1140104f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_c3a5afa781a8f92bb01a0c7a30d5dfb04c48fd92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_cfce1a8d5f602c850a2ecd2efa41c3138f163c9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_83e0b0e9813f54e06e83b5fe48a30f6382dcc283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5cf7dbbf2bbf586d4b19307ed37ac15b10ef10fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_83b506bca9ea486fcf957866b93f74e2af424b5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cce194da5c6c372f3cc5a9dd5fadd93de60bbc3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_a2372ac209a9e25be791cfb4026589bd8b951541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\okio-1.11.0_e96c6f4158ae615e4705e3e457c96b2b4a90087e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_f29cb3ce362b70bff64818817da7cf94c3782382.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_234786503525c80e123e2ea3c434b137b7a62535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_80d766fbdb1c49a46a9b1d2e7cc443a7e260a55b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1d13741132d8d2275bac29adbf63020b7bb4c477.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_124bade42cae30698fb973894fd1d6c4ffa6a153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_3078efebc3b933729ce624020a23780adcba3c6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\munshama\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.5.0\4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83\okhttp-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="C:\Users\munshama\AndroidStudioProjects\Bzyness\app\build\intermediates\pre-dexed\debug\okhttp-3.5.0_d8a3f3930c0a0a8be6eef4e368fb794f350d9ad6.jar" />
+    </item>
+
+</items>
